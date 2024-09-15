@@ -4,8 +4,6 @@ My innovative approach earned me the "Out of the Box Thinker" award in the DataD
 
 I've created two engaging Tableau courses on BFI Insights' website, where learners can benefit from my data wizardry. I stand out in the world of data by sharing my knowledge and transforming complex data into understandable insights.
 
-Currently a Tableau Social Ambassador 2024 
-
 Let's connect and explore opportunities together!
 
 <!---
